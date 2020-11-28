@@ -1,4 +1,4 @@
-# A USSD Simulator App to test USSD APIs
+# USSD Simulator App to test USSD APIs
 
 ##### Need for an offline tool to test the functionallity of your ussd api running on your local machine.
 
