@@ -8,10 +8,6 @@
 
 * The rest use CDNs to load them.
 
-*Don't have Python/Anaconda? No problem!*
-
-*Access the online version at _______________________ (coming soon)*
-
 ##### Please read the instructions below to understand how the app works and how you can configure it to work for you:
 
 ### 1. RUNNING ON YOUR LOCAL MACHINE
