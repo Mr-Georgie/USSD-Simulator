@@ -8,9 +8,9 @@
 
 * The rest use CDNs to load them.
 
-*Don't have Python/Anaconda? No problem!
+*Don't have Python/Anaconda? No problem!*
 
-*Access the online version at _______________________ (coming soon)
+*Access the online version at _______________________ (coming soon)*
 
 ##### Please read the instructions below to understand how the app works and how you can configure it to work for you:
 
@@ -18,7 +18,7 @@
 
 ##### To run on your local machine if you already have Python installed, run the following code:
 
-*note: all these commands below should be done after you've downloaded the code to your local machine and you're inside the folder in your terminal
+*note: all these commands below should be done after you've downloaded the code to your local machine and you're inside the folder in your terminal*
 
 -> pip install flask
 
@@ -32,7 +32,7 @@
 
 -> flask run
 
-*The app should be running now on http://127.0.0.1:5000/ if you've done all that is needed to do
+*The app should be running now on http://127.0.0.1:5000/ if you've done all that is needed to do*
 
 ### 2. HOW THE SIMULATOR WORKS
 
@@ -50,7 +50,7 @@
 
 * The four parameters are sent as query string to your specified API (Callback url) for further processing
 
-*note: You are only supposed to modify the views.py file. Please do not modify anything on the static folder unless you really know what you are doing.
+*note: You are only supposed to modify the views.py file. Please do not modify anything on the static folder unless you really know what you are doing.*
 
 #### I hope this helps. Contact me at george.isiguzo@yahoo.com in case of any enquiry. Thank you.
 
