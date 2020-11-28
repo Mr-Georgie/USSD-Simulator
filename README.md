@@ -16,17 +16,17 @@
 
 *note: all these commands below should be done after you've downloaded the code to your local machine and you're inside the folder in your terminal*
 
--> pip install flask
+>> pip install flask
 
--> python -m venv env
+>> python -m venv env
 
--> env\Scripts\activate
+>> env\Scripts\activate
 
--> $env:FLASK_APP = "simulator"
+>> $env:FLASK_APP = "simulator"
 
--> $env:FLASK_ENV = "development"
+>> $env:FLASK_ENV = "development"
 
--> flask run
+>> flask run
 
 *The app should be running now on http://127.0.0.1:5000/ if you've done all that is needed to do*
 
