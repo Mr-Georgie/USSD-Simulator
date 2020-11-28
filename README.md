@@ -3,7 +3,9 @@
 ##### Need for an offline tool to test the functionallity of your ussd api running on your local machine.
 
 Built with Flask Jinja templates, JS/JQuery/Ajax, Bootstrap, Font Awesome and SweetAlerts. 
+
 You will need to have Python/Anaconda locally installed on your machine before you can install Flask. 
+
 The rest use CDNs to load them.
 
 Don't have Python/Anaconda? No problem!
