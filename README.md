@@ -1,26 +1,34 @@
 # A USSD Simulator App to test USSD APIs
 
-Need for an offline tool to test the functionallity of your ussd api running on your local machine. 
-Built with Flask Jinja templates, JS/JQuery/Ajax, Bootstrap, Font Awesome and SweetAlerts. You will need to have Python/Anaconda locally installed on your machine before you can install Flask. The rest use CDNs to load them.
+##### Need for an offline tool to test the functionallity of your ussd api running on your local machine.
+
+Built with Flask Jinja templates, JS/JQuery/Ajax, Bootstrap, Font Awesome and SweetAlerts. 
+You will need to have Python/Anaconda locally installed on your machine before you can install Flask. 
+The rest use CDNs to load them.
 
 Don't have Python/Anaconda? No problem!
 
 Access the online version at _______________________ (coming soon)
 
-#### Please read the instructions below to understand how the app works and how you can configure it to work for you:
+##### Please read the instructions below to understand how the app works and how you can configure it to work for you:
 
-## 1. RUNNING ON YOUR LOCAL MACHINE
+### 1. RUNNING ON YOUR LOCAL MACHINE
 
-### To run on your local machine if you already have Python installed, run the following code:
+#### To run on your local machine if you already have Python installed, run the following code:
 
 *note: all these commands below should be done after you've downloaded the code to your local machine and you're inside the folder in your terminal
 
- -> pip install flask 
- -> python -m venv env
- -> env\Scripts\activate
- -> $env:FLASK_APP = "simulator"
- -> $env:FLASK_ENV = "development"
- -> flask run
+-> pip install flask
+
+-> python -m venv env
+
+-> env\Scripts\activate
+
+-> $env:FLASK_APP = "simulator"
+
+-> $env:FLASK_ENV = "development"
+
+-> flask run
 
  The app should be running now on http://127.0.0.1:5000/ if you've done all that is needed to do
 
@@ -44,4 +52,4 @@ Access the online version at _______________________ (coming soon)
 
  I hope this helps. Contact me at george.isiguzo@yahoo.com in case of any enquiry. Thank you.
 
- Thanks to https://codepen.io/azizurrahman/pen/YGKgro for the user interface.
+#### Thanks to https://codepen.io/azizurrahman/pen/YGKgro for the user interface.
